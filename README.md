@@ -1,6 +1,3 @@
-<div align="center">
-  <h2>Júnior Zanoni</h2>
-</div>
   <p>Apaixonado por tecnologia e mudança, encontrei na programação a melhor forma de impactar a vida das pessoas, conseguindo alcançar cada cantinho do mundo, procurando sempre compartilhar conhecimento e ajudar, por que no final, a única coisa que fica para trás são as pessoas que cativamos.</p>
 <div style="display: flex; justify-content: space-around; margin-top: 20px">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juniorzanoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
