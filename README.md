@@ -1,15 +1,43 @@
-  <p>Apaixonado por tecnologia e mudança, encontrei na programação a melhor forma de impactar a vida das pessoas, conseguindo alcançar cada cantinho do mundo, procurando sempre compartilhar conhecimento e ajudar, por que no final, a única coisa que fica para trás são as pessoas que cativamos.</p>
-<div align=center style="display: flex; justify-content: space-around; margin-top: 20px">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juniorzanoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorzanoni&layout=compact&langs_count=7&theme=dark"/>
+<h2 align="center">Júnior Zanoni</h2>
+
+###
+
+<p align="center">Apaixonado por tecnologia e mudança, encontrei na programação a melhor forma de impactar a vida das pessoas, conseguindo alcançar cada cantinho do mundo, procurando sempre compartilhar conhecimento e ajudar, por que no final, a única coisa que fica para trás são as pessoas que cativamos.</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
 </div>
-<div align=center style="display: flex; justify-content: center; align-itens: center; margin-top: 20px">
-  <img align="center" alt="icone html 5, escudo com o número 5" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" />
-  <img align="center" alt="icone css3, escudo com número 3" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />
-  <img align="center" alt="icone javascript, quadrado amarelo escrito js" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" />
-  <img align="center" alt="icone react, atomo em azul" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
-  <img align="center" alt="icone nodeJs, losangulo verde com as letras js" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" />
-  <img align="center" alt="icone mongoDB, escrito mongodb e uma folha verde" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />
-  <img align="center" alt="icone SQL, folha de papel escrita sql" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2236/PNG/512/file_sql_format_type_icon_134681.png" />
-  <img align="center" alt="icone docker, balei coma varios containers nas costas" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&username=JuniorZanoni" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=JuniorZanoni" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/junior-zanoni/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:zanoni.odenir@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5551982393679" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
